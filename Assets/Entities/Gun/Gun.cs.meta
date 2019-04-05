@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6661515602b962f448d36a149f14c1d9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - instances: {instanceID: 0}
+  - muzzle: {instanceID: 0}
+  - gunShotClip: {fileID: 8300000, guid: 486cb4a2c610c794c805b0caed0e8c24, type: 3}
+  - hitDecal: {fileID: 7602458166226730615, guid: 7f5948d09d21022409690409f5057300,
+      type: 3}
+  - sparks: {fileID: 2758298858610954504, guid: 3a547acbb80c37041b398ed658843e2f,
+      type: 3}
+  - blood: {fileID: 2102016267655973450, guid: d1670acd39ead2a4aa13dcc88c45261d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
